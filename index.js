@@ -73,7 +73,7 @@ let initiator = () => {
     }
 }
 
-app.listen(8080, function () {
+app.listen(8089, function () {
     //console.log('Simulators are running.');
     initiator();
     //console.log(`Initiation complete.`, simulator_info);
