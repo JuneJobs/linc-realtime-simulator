@@ -1,0 +1,19 @@
+{
+  "name": "linc-realtime-simulator",
+  "version": "1.0.0",
+  "description": "linc festival simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJobs/linc-realtime-simulator.git"
+  },
+  "author": "Junhee Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJobs/linc-realtime-simulator/issues"
+  },
+  "homepage": "https://github.com/JuneJobs/linc-realtime-simulator#readme"
+}
