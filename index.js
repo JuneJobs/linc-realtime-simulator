@@ -92,6 +92,7 @@ router.get('/aqi_simulator_v_1_0', (req, res) => {
             co_aqi: get_generated_data(),
             o3_aqi: get_generated_data(),
             no2_aqi: get_generated_data(),
+            so2_aqi: get_generated_data(),
             pm25_aqi: get_generated_data(),
             pm10_aqi: get_generated_data(),
             lat: simulator_info.tuples[idx].lat,
