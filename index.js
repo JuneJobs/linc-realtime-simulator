@@ -26,7 +26,7 @@ const map_pos_center = {
 const cnt_simulator = 20;
 
 let get_generated_data = () => {
-    return Math.round(Math.random()*500);
+    return Math.round(Math.random()*200);
 }
 
 let get_timestamp = () => {
