@@ -9,7 +9,7 @@ GET 통신방식으로 URL 뒤의 aqi_simulator_v_1_0을 호출하면 실시간 
 ## 1.2. 호출주소
 Web server API를 사용하기 위한 서버 주소는 다음과 같습니다.
 ```
-> http://somnium.me:8089/aqi_simulator_v_1_0
+> http://sv.somnium.me:8089/aqi_simulator_v_1_0
 ``` 
 
 ## 1.3. Parameter 구성
